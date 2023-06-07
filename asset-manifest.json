@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_whatup_clone_greenapi/static/css/main.da9f0694.css",
+    "main.js": "/react_whatup_clone_greenapi/static/js/main.338eb991.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react_whatup_clone_greenapi/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react_whatup_clone_greenapi/index.html",
+    "main.da9f0694.css.map": "/react_whatup_clone_greenapi/static/css/main.da9f0694.css.map",
+    "main.338eb991.js.map": "/react_whatup_clone_greenapi/static/js/main.338eb991.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react_whatup_clone_greenapi/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da9f0694.css",
+    "static/js/main.338eb991.js"
+  ]
+}
